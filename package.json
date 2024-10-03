@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "rollup": "^3.10.0"
+    "rollup": "^3.29.5"
   },
   "scripts": {
     "build": "rollup --config"
